@@ -34,11 +34,11 @@ SERVER_ID = "8b6efb4843ab402ca73a3d63440a2a8e"
 SECRET_KEY_NAME = "private_20201116165142.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://m-qabot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-158-190-214.compute-1.amazonaws.com"
+DB_NAME = "daovmbpctqe5jh"
+DB_USER = "fdnnexfuccjoxb"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "9c795489c2e0215635c0a7e4492ea946132e96a74b912c78ce449b3619365554"
